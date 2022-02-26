@@ -58,3 +58,19 @@ __Prototype__
 	<img src= "Images/Nav.gif" height=350/>
 </p>
 
+
+## Wearable Project: WatchOS
+
+App Name: __Fitness Counts__
+
+Main concepts: WatchOS workout tracker. Track and display work out time intervals for daily and weekly activities.
+
+<p align="center">
+	<img src= "Images/WatchOS.png" height=350/>
+</p>
+
+<p align="center">
+	<img src= "Images/Watch-1.gif" height=350/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+   <img src= "Images/Watch-2.gif" height=350/>
+</p>
