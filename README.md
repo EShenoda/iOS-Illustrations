@@ -70,7 +70,7 @@ Main concepts: WatchOS workout tracker. Track and display work out time interval
 </p>
 
 <p align="center">
-	<img src= "Images/Watch-1.gif"/>
+	<img src= "Images/Watch-1.gif" height=250/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
-   <img src= "Images/Watch-2.gif" />
+   <img src= "Images/Watch-2.gif" height=250/>
 </p>
