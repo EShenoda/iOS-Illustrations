@@ -66,7 +66,7 @@ App Name: __Fitness Counts__
 Main concepts: WatchOS workout tracker. Track and display work out time intervals for daily and weekly activities.
 
 <p align="center">
-	<img src= "Images/WatchOS.png" height=350/>
+	<img src= "Images/Navigation.png" height=350/>
 </p>
 
 <p align="center">
