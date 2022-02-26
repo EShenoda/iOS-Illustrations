@@ -74,3 +74,34 @@ Main concepts: WatchOS workout tracker. Track and display work out time interval
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
    <img src= "Images/Watch-2.gif" height=250/>
 </p>
+
+___
+
+### News API
+
+__Goals__:
+
+* Download and parse JSON from a news API
+* Add activity indicators to display download progress
+* Display sources with a UITableView
+* Each section is displayed by category
+* Cell selection will take the user to the Articles View
+* Allow user to change the theme in settings
+* Article cell selection will take the user to an article detail view
+* Display website in a WKWebView
+
+<p align="center">
+  <img src= "Images/News-1.gif" height=350>
+</p>
+
+<p align="center">
+  <img src= "Images/News-2.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/News-3.gif" height=350>
+</p>
+
+<p align="center">
+  <img src= "Images/News-4.gif" height=350>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp&nbsp;&nbsp;
+<img src= "Images/News-5.gif" height=350>
+</p>
