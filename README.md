@@ -4,12 +4,19 @@
 
 ## iOS Project & Portfolio
 
-App name: __Healthy Living__
+<h3>Healthy Living App</h3>
 
+__APP DEFINITION STATEMENT__
+
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Healthy Living App is a great solution to help us meet our dietary needs. Healthy Living provides home cooks with the ability to search for food dishes and view nutrient information. Users can make decisions, based on their search criteria, in order to create or maintain a healthy lifestyle.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Users can view meal suggestions by searching for a specific diet plan, ingredient, or cuisine. Users will have the option to save meals and create the meal plan that best suits their nutritional goals. Meal information such as dishes and nutrient content is provided by Spoonacular’s API.
+
+
+__Adobe XD__: 
 
 > 'Right click' and open in new tab
 
-* Adobe XD: 
+
 
 [Application Prototype](https://xd.adobe.com/view/88495071-11e1-48cc-8189-e4a0b9b30895-dd1a/)
 
