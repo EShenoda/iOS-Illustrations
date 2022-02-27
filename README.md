@@ -12,6 +12,17 @@ __APP DEFINITION STATEMENT__
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Users can view meal suggestions by searching for a specific diet plan, ingredient, or cuisine. Users will have the option to save meals and create the meal plan that best suits their nutritional goals. Meal information such as dishes and nutrient content is provided by Spoonacular’s API.
 
 
+__Topics of research__:
+
+* Firebase: Setting up, creating a Firebase project & linking it to an XCode project. 
+* Cocoa Pod installation and setup.
+* Firestore Database:  Research database structure and how to set up, store and retrieve data.
+* Firebase Authentication: Login credentials, how to set up username and password for user.
+* RapidAPI & Spoonacular: API calls, research request methods and data structure / nodes.
+* XCode: Research user interaction with lists, dropdowns, and displaying data.
+* User Defaults: Provide auto-login with Google's Firebase Authentication
+
+
 __Adobe XD__: 
 
 > 'Right click' and open in new tab
