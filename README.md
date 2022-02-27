@@ -108,9 +108,6 @@ __Goals__:
 * Article cell selection will take the user to an article detail view
 * Display website in a WKWebView
 
-<p align="center">
-  <img src= "Images/News-1.gif" height=350>
-</p>
 
 <p align="center">
   <img src= "Images/News-2.gif" height=350>
