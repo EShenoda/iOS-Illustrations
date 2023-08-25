@@ -1,5 +1,7 @@
 # iOS-Illustrations
 
+## Please allow a few minutes for GIFS to load. 
+
 
 
 ## iOS Project & Portfolio
