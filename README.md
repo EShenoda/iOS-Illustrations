@@ -1,6 +1,8 @@
 # iOS-Illustrations
 
-## Please allow a few minutes for GIFs to load. 
+____________________________________________________
+
+<h2 align="center">__Please allow a few minutes for GIFs to load.__</h3>  
 
 
 
