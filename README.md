@@ -1,10 +1,16 @@
 # iOS-Illustrations
 
-____________________________________________________
+_________________________________________________________________________
 
-<h2 align="center">__Please allow a few minutes for GIFs to load.__</h3>  
+<br>
+<br>
+
+<h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h3>
 
 
+
+<br>
+<br>
 
 ## iOS Project & Portfolio
 
