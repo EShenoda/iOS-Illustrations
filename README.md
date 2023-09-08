@@ -34,18 +34,19 @@ __Adobe XD__:
 
 [Application Prototype](https://xd.adobe.com/view/88495071-11e1-48cc-8189-e4a0b9b30895-dd1a/)
 
+__Prototype__
+
+<p align="center">
+  <img src= "Images/Prototype.png">
+</p>
+
+<br>
 
 
 __Storyboard Layout__
 
 <p align="center">
   <img src= "Images/Storyboard.png" width=550>
-</p>
-
-__Prototype__
-
-<p align="center">
-  <img src= "Images/Prototype.png">
 </p>
 
 <br>
