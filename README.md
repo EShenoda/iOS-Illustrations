@@ -55,11 +55,14 @@ __Prototype__
 <h2 align="center">** Please allow a few minutes for GIFs to load ** <br> Thank you so much</h3>
 
 <br>
+<br>
 
 
 <p align="center">
 	<img src= "Images/Picker.png" height=350/>
 </p>
+
+<br>
 
 <p align="center">
 	<img src= "Images/SelectCuisine.gif" height=350/>
@@ -67,13 +70,13 @@ __Prototype__
    <img src= "Images/Selection.gif" height=350/>
 </p>
 
-
+<br>
 
 <p align="center">
 	<img src= "Images/Login.gif" height=350/>
 </p>
 
-
+<br>
 
 <p align="center">
 	<img src= "Images/Save.gif" height=350/>
@@ -81,7 +84,7 @@ __Prototype__
    <img src= "Images/Delete.gif" height=350/>
 </p>
 
-
+<br>
 
 <p align="center">
 	<img src= "Images/Nav.gif" height=350/>
