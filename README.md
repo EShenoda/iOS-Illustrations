@@ -11,10 +11,9 @@
 
 __APP DEFINITION STATEMENT__
 
->The Healthy Living App is a great solution to help us meet our dietary needs. Healthy Living provides home cooks with the ability to search for food dishes and view nutrient information. Users can make decisions, based on their search criteria, in order to create or maintain a healthy lifestyle.  
-<br>
-Users can view meal suggestions by searching for a specific diet plan, ingredient, or cuisine. Users will have the option to save meals and create the meal plan that best suits their nutritional goals. Meal information such as dishes and nutrient content is provided by Spoonacular’s API.
+>The Healthy Living App is a great solution to help people meet their dietary needs. Healthy Living provides home cooks with the ability to search for dishes and view nutritional information. Users can view meal suggestions by searching for a specific diet plan, ingredient, or cuisine.  
 
+<br>
 
 __Topics of research__:
 
