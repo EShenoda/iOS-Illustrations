@@ -6,7 +6,6 @@
 
 <br>
 
-
 <h3>Healthy Living App</h3>
 
 __APP DEFINITION STATEMENT__
@@ -25,6 +24,7 @@ __Topics of research__:
 * XCode: Research user interaction with lists, dropdowns, and displaying data.
 * User Defaults: Provide auto-login with Google's Firebase Authentication
 
+<br>
 
 __Adobe XD__: 
 
@@ -94,7 +94,6 @@ __Storyboard Layout__
 
 ## [Click Here to View More iOS Illustrations]()
 
-<br>
 
 ##  Copyright
 Private Repo for EmilShenodaDev@gmail.com
