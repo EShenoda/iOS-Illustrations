@@ -92,7 +92,7 @@ __Storyboard Layout__
 
 <br>
 
-## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/Android-Illustrations-II)
+## [Click Here to View More iOS Illustrations](https://github.com/EShenoda/iOS-Illustrations-II)
 
 
 ##  Copyright
